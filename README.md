@@ -13,6 +13,7 @@ being more efficient for small datasets.
 
 
 Abbreviations: 
+
 ▪ d_pred_acc : The accuracy of the model to predict the domain. Accuracy is the fraction
 of predictions our model got right.
 
